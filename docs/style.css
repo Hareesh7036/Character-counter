@@ -7,11 +7,11 @@ body{
     font-family: cursive;
 }
 .container{
-    background-color: rgb(64, 64, 142);
+    background-color: rgb(80, 131, 190);
     width: 350px;
     height: 250px;
     box-shadow: 0 2px 8px rgb(56, 32, 54);
-    border-radius: 5px;
+    border-radius:git 5px;
     color: white;
 }
 h3{
