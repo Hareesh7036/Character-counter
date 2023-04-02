@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(41, 41, 230);
+    background:linear-gradient(yellow,lightblue);
     display: flex;
     height: 100vh;
     justify-content: center;
