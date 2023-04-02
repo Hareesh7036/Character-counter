@@ -33,7 +33,7 @@ h3{
     display: flex;
     justify-content: space-between;
     margin: 10px;
-    color: rgb(154, 149, 149);
+    color: white;
 }
 #tot_char{
     color: rgb(84, 174, 252);
